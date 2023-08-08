@@ -1,0 +1,28 @@
+.h2_class
+{
+    color: white;
+    background-color:grey;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.p_class
+{
+    color: white;
+    background-color:grey;
+}
+
+.header_div 
+{
+    background-color:grey;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align: center;
+ }
